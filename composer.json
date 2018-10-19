@@ -1,0 +1,19 @@
+{
+    "name": "hyancat/laravel-sugar",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "HyanCat",
+            "email": "hyancat@live.cn"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "HyanCat\\Sugar\\": "src/"
+        }
+    },
+    "suggest": {
+    }
+}
